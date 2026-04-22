@@ -1,2 +1,13 @@
-# created by virtualenv automatically
-*
+# Ignore PyCharm settings
+.idea/
+*.iml
+*.xml
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore local data files (keep your repo clean)
+data/
+*.csv
